@@ -22,3 +22,6 @@
 ## Plex einrichten
 Der Plex Media Server kann nun via Webbrowser z. B. auf dem Host mit folgender URL aufgerufen werden.
 `http://<IP-Adresse-des-Servers>:32400/web`
+
+## Plex konfigurieren
+1. Vi
