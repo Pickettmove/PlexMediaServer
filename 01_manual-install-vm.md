@@ -30,14 +30,14 @@ Detaillierte Scrennshots sind [hier](pictures/create-vm) abgespeichert.
 1. **Language** > Deutsch
 2. **Installer-Aktualisierung** > Aktualisieren auf neuen Installer
 3. **Keyboard Layout** > Switzerland
-4. **Installation type** > Ubuntu Server (minimized)
+4. **Installation type** > Ubuntu Server
 5. **Network** > Default
 6. **Proxy** > None
 7. **Storage** > Use an entire disk
 8. **Storage configuration** > Default
 9. **Profile setup** > Definiere Name, Servername, Username und Passwort
 10. **Ubuntu Pro** > Skip for now
-11. **SSH Setup** > Skip
+11. **SSH Setup** > Enable
 12. **Featured Server Snaps** > None
 13. Wenn Installation beendet ist > Reboot der VM und CD/DVD in den Settings auswerfen
 
