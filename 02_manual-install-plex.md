@@ -24,4 +24,12 @@ Der Plex Media Server kann nun via Webbrowser z. B. auf dem Host mit folgender U
 `http://<IP-Adresse-des-Servers>:32400/web`
 
 ## Plex konfigurieren
-1. Vi
+1. In der Weboberfläche erscheint nun ein Anmeldefenster für Plex.
+Melde dich hier mit deinem bestehenden Plex Login ein oder erstelle einen neuen Account.
+
+2. **Servereinrichtung** > Servername eingeben, unter dem der Plex Media Server erreichbar sein soll.
+
+3. **Mediathek** > Hier kann eine neue oder bestehende Mediathek eingefügt werden.
+Mediatheken können auch später hinzugefügt, bearbeitet und gelöscht werden.
+
+4. Die grundlegende Einrichtung ist nun vorgenommen und der Plex Media Server ist eingerichtet.
