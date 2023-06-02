@@ -33,3 +33,5 @@ Melde dich hier mit deinem bestehenden Plex Login ein oder erstelle einen neuen 
 Mediatheken können auch später hinzugefügt, bearbeitet und gelöscht werden.
 
 4. Die grundlegende Einrichtung ist nun vorgenommen und der Plex Media Server ist eingerichtet.
+
+Detaillierte Scrennshots sind [hier](pictures/install-plex) abgespeichert.
