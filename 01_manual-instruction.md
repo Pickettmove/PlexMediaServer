@@ -13,4 +13,3 @@ In dieser Anleitung werden mit folgenden Geräten und Versionen gearbeitet. Bitt
 ### Glossar
 - NAS: Network Attached Storage
 - IP-Adresse: Internet Protocol Address
-- 
