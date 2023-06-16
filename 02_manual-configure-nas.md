@@ -2,6 +2,7 @@
 
 In folgendem Abschnitt wird dir aufgezeigt, wie du das NAS konfigurierst resp. vorbereitest und anschliessend den Plex Media Server installierst.
 
+
 ## NAS in Betrieb nehmen
 Als erstes muss das NAS in Betrieb genommen werden. Anbei findest eine kurze Anleitung, wie du vorgehen kannst.
 
@@ -20,6 +21,7 @@ Jetzt befindest du dich auf der Verwaltungsoberfläche deines NAS. Hier kannst d
 
 Info: Detaillierte Screenshots zu den einzelnen Schritten findest du [hier](pictures/02_manual-configure-nas/NAS-in-Betrieb-nehmen).
 
+
 ## NAS konfigurieren
 Nun kannst du das NAS für den Plex Media Server vorbereiten. Folgende Schritte solltest du dabei berücksichtigen:
 
@@ -33,12 +35,14 @@ Nun kannst du das NAS für den Plex Media Server vorbereiten. Folgende Schritte 
 
 Info: Detaillierte Screenshots zu den einzelnen Schritten findest du [hier](pictures/02_manual-configure-nas/NAS-konfigurieren).
 
+
 ## Plex Media Server installieren
 Nun kannst du bereits den Plex Media Server auf deinem NAS installieren. Dazu musst du zuerst von Plex die neuste Version des Media Servers herunterladen.
 Diese findest du [hier](https://www.plex.tv/de/media-server-downloads/). Wähle dein NAS aus und lade das Installations-Paket herunter.
 Gehe nun auf deinem NAS in den Bereich Apps und klicke links auf die Option "App manuell installieren". Wähle die heruntergeladene Datei aus und installiere die Applikation. Wenn der Plex Media Server erfolgreich installiert ist, wird er links unter installierte Apps angezeigt.
 
 Info: Detaillierte Screenshots zu den einzelnen Schritten findest du [hier](pictures/02_manual-configure-nas/Plex-Media-Server-installieren)
+
 
 ## Plex Media Server erste Schritte
 Im Browser kann nun folgende Adresse eingeben: <IP-Adresse>:32400/web
