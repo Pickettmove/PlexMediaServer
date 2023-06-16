@@ -18,6 +18,7 @@ Als erstes muss das NAS in Betrieb genommen werden. Anbei findest eine kurze Anl
 9. Wenn du möchtest, kannst du hier dein Produkt noch registrieren.
 
 Jetzt befindest du dich auf der Verwaltungsoberfläche deines NAS. Hier kannst du alle wichtigen Einstellungen vornehmen und kannst den Zustand deines Geräts überwachen.
+<br><img src="pictures/02_manual-configure-nas/NAS-in-Betrieb-nehmen/NAS-in-Betrieb-nehmen-08.png" width="500px"></img>
 
 Info: Detaillierte Screenshots zu den einzelnen Schritten findest du [hier](pictures/02_manual-configure-nas/NAS-in-Betrieb-nehmen).
 

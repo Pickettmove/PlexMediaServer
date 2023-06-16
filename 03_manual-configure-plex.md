@@ -30,7 +30,7 @@ Info: Befindet sich ein Film bei einem Streaming-Anbieter und ist nicht lokal au
 <br><img src="pictures/03_manual-configure-plex/Streamingdienste-integrieren_01.png" width="750px"></img>
 
 
-## Einstellungen Darstellung Dashboard
+## Einstellung Darstellung Dashboard
 Im Dashboard wird standardmässig auch andere Filme angezeigt, die z. B. von Plex zur Verfügung gestellt werden. Willst du diese Medien ausblenden, kannst du unter Einstellungen/Online Medienquellen die einzelnen Anzeigen aktivieren und deaktivieren.
 
 <br><img src="pictures/03_manual-configure-plex/Einstellungen-Darstellung-Dashboard_01.png" width="750px"></img>
@@ -45,4 +45,6 @@ Die Benutzer für deinen Plex Media Server kannst du unter Einstellungen/Plex Ho
 
 
 ## Mediatheken-Zugriff verwalten
-Im Bereich Einstellungen/Mediatheken-Zugriff verwalten kann der Zugriff auf Mediatheken für verschiedene Benutzer eingerichtet werden. 
+Im Bereich Einstellungen/Mediatheken-Zugriff verwalten kann der Zugriff auf Mediatheken für externe Benutzer eingerichtet werden. Hat jemand einen Plex-Account und du möchtest ihm eine bestimmte Mediathek freigeben, kannst du ihm hier eine Berechtigung dafür erteilen und dann wieder entziehen.
+
+<br><img src="pictures/03_manual-configure-plex/Mediatheken-Zugriff-verwalten_01.png" width="750px"></img>

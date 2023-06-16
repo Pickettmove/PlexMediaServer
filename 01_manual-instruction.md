@@ -7,6 +7,9 @@ In dieser Anleitung werden mit folgenden Geräten und Versionen gearbeitet. Bitt
 - **NAS:** WD My Cloud EX2 Ultra 2x 8TB (WDBVBZ0160JCH-EESN), Firmware-Version: 5.26.202 
 - **Plex-Version:** Plex Media Server 1.32.3.7192
 
+### Bilder
+Zu jedem Installationsschritt findest du im Ordner [pictures](pictures) einen Screenshoot. Diese kannst du nutzen, wenn die Erklärung nicht ganz verständlich ist ;)
+
 ### Links
 - Download-Plex: https://www.plex.tv/de/media-server-downloads/
 
