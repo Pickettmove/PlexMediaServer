@@ -1,8 +1,21 @@
 # Plex Media Server mobil nutzen
-Text 
+Auf den Plex Meida Server kann auch mobil zugegriffen werden. Wird der Plex Media Server nicht ins WAN freigegeben, kannst du nur intern in deinem Netzwerk auf die Dateien zugreifen. Folgend erhältst du einen Überblick, wie du Plex mobil nutzen kannst und wie du den Server nach aussen sichtbar machen kannst.
+
+
+## Plex Web konfigurieren
+Wenn man als Administrator im Plex angemeldet ist, kann man unter Einstellungen/Plex Web diverse Einstellungen für die Webclients vornehmen. Von Nutzen ist hier die Qualität, in welcher die Medien wiedergegeben werden und die Fehlersuche.
+
 
 ## Plex App nutzen
 Die Plex App gibt es für fast jedes App-fähige Gerät (Windows, IOS, Android) und kann im jeweiligen Store einfach heruntergeladen werden.
-Wird der Plex Media Server nur intern eingesetzt, muss sich das Endgerät im gleichen Netz befinden. Ansonsten muss/kann der Plex Media Server noch nach extern freigegeben werden.
+Bist du im selben Netzwerk wie der Plex Server kannst du dich gleich automatisch mit dem Server verbinden und dich mit deinem persönlichen Login einwählen. 
+Jetzt hast du bereits Zugang zu all deinen Medien.
 
 Detaillierte Scrennshots sind [hier](pictures/configure-plex) abgespeichert.
+
+
+## Fernzugriff einrichten
+Router konfigurieren
+
+
+## Fernzugriff Client-Site
