@@ -15,7 +15,9 @@ Detaillierte Scrennshots sind [hier](pictures/configure-plex) abgespeichert.
 
 
 ## Fernzugriff einrichten
-Router konfigurieren
+Um den Plex Server ins WAN freizugeben muss als erstes unter Einstellungen /Einstellungen/Fernzugriff den Fernzugriff erlaubt werden. Anschliessend musst du auf deinem Router oder deiner Firewall eine Portweiterleitung für den Port 32400 oder einen eigenen Port einrichten.
+
+<br><img src="pictures/04_manual-remoteaccess-plex/Fernzugriff-einrichten_01.png" width="750px"></img>
 
 
 ## Fernzugriff Client-Site

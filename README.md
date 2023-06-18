@@ -6,7 +6,5 @@
 - [04_manual-remoteaccess-plex.md](04_manual-remoteaccess-plex.md)
 - [05_manual-digitize-dvds.md](05_manual-digitize-dvds.md)
 
-- [10_manual-install-vm.md](10_manual-install-vm.md)
-- [11_manual-install-plex.md](11_manual-install-plex.md)
 
 - [pictures](pictures)
