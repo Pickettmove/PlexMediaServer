@@ -13,6 +13,7 @@ Zu jedem Installationsschritt findest du im Ordner [pictures](pictures) einen Sc
 
 ### Links
 - Download-Plex: https://www.plex.tv/de/media-server-downloads/
+- HandBrake: https://handbrake.fr/
 
 ### Glossar
 - NAS: Network Attached Storage
