@@ -5,6 +5,7 @@ Der Plex Server ist ein fantastisches Werkzeug, um deine persönliche Mediensamm
 ### Material
 In dieser Anleitung werden mit folgenden Geräten und Versionen gearbeitet. Bitte beachte, dass je nach Gerät und Version  die Konfiguration etwas anders sein kann.
 - **NAS:** WD My Cloud EX2 Ultra 2x 8TB (WDBVBZ0160JCH-EESN), Firmware-Version: 5.26.202 
+- alternativ > VM mit - **Ubuntu Server:** Version 22.04.2 LTS
 - **Plex-Version:** Plex Media Server 1.32.3.7192
 
 ### Bilder
