@@ -13,13 +13,9 @@ Plex kann Videos, die die folgenden Kriterien direkt erfüllen, normalerweise di
 - Bittiefe des Videos: 8.
 
 
-## Handbrake zum Digitalisieren
-HandBrake ist ein kostenloses Tool, das dir ermöglicht, DVDs zu rippen und in Plex-kompatible Formate umzuwandeln. Mit HandBrake kannst du deine DVDs digitalisieren und die konvertierten Dateien auf deinem Plex-Server speichern, um sie auf verschiedenen Geräten zu streamen. Es bietet viele Anpassungsmöglichkeiten für die Ausgabequalität und -grösse, sodass du deine Videos nach deinen Bedürfnissen optimieren kannst.
+## MakeMKV zum Digitalisieren
+MakeMKV ist ein Tool, mit dem du DVDs und Blu-rays für Plex digitalisieren kannst. Es rippt den Inhalt der Discs in das MKV-Format, das von Plex unterstützt wird. Du kannst dann die gerippten MKV-Dateien in Plex importieren und auf verschiedenen Geräten streamen. Beachte jedoch, dass das Rippen kopiergeschützter DVDs ohne Erlaubnis des Urheberrechtsinhabers illegal ist. Stelle also sicher, dass du nur DVDs rippst, für die du die entsprechenden Rechte besitzt oder die nicht urheberrechtlich geschützt sind.
 
-Das Tool findest du hier: [https://handbrake.fr/](https://handbrake.fr/)
+Das Tool findest du hier: [https://www.makemkv.com/](https://www.makemkv.com/)
 
 <br><img src="pictures/05_manual-digitize-dvds/Handbrake-zum-Digitalisieren_01.png" width="750px"></img>
-
-
-## DVD rippen
-Folgende Auswahl kannst du z. B. vornehmen, wenn du eine DVD für Plex digitalisierts:
