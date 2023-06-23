@@ -18,4 +18,4 @@ MakeMKV ist ein Tool, mit dem du DVDs und Blu-rays für Plex digitalisieren kann
 
 Das Tool findest du hier: [https://www.makemkv.com/](https://www.makemkv.com/)
 
-<br><img src="pictures/05_manual-digitize-dvds/Handbrake-zum-Digitalisieren_01.png" width="750px"></img>
+<br><img src="pictures/05_manual-digitize-dvds/Handbrake-zum-Digitalisieren_01.png" width="500px"></img>

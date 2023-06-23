@@ -18,6 +18,9 @@ Rechts neben der Option "Mediathek hinzufügen" können die Mediathek-Dateien vi
 
 Info: Das Einlesen der Dateien kannst du auch automatisieren. Unter Einstellungen/Einstellungen/Mediathek kannst du auswählen, ob die Mediatheken nach einer Änderung gleich automatisch aktualisiert werden soll und/oder in welchem Intervall die Mediatheken durchsucht werden sollen.
 
+### Zuordnung anpassen
+Wird ein Film automatisch eingelesen, kann es sein, dass die Zuordnung nicht korrekt ist. Du erhälst also Video-Informationen, die eigentlich gar nicht auf die Videodatei zutreffen. Dies kann vorkommen, wenn es mehrere Filme mit dem selben Titel gibt und die Metadaten nicht korrekt ausgelesen werden können. Die Zuordnung musst du dann manuel vornehmen. Gehe dazu zu deinem Film und klicke unten rechts auf die drei Punkte beim Film. Wähle hier die Option "Zuordnung korrigieren ...". Anschliessend kannst du den Film nach Titel und Erscheinungsjahr suchen und die Zuordnung ändern.
+
 ### Mediathek bearbeiten und löschen
 In der Liste der Mediatheken hat man dann noch zusätzliche Einstellungsmöglichkeiten. Nützlich ist vorallem  die Verwaltung der Empfehlungen, die Verwaltung des Zugriffs sowie die Aktualisierung der Metadaten. Hier kannst du auch eine Mediathek löschen.
 
